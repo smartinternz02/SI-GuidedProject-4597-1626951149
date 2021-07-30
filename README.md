@@ -34,7 +34,10 @@ SmartBridge_IBM_Reference   token: p-9ae415374995c7307c0896f71144fc3bec548700
 
 # Dataset obtained from: 
 
-archive(4).zip ; to be unzipped before use
+archive(4).zip : to be unzipped before use
+
+Split dataset available in 'Dataset' folder
+
 
 # Feedback videos link:
 https://drive.google.com/drive/folders/1Jdkn5yZy-1ie6Cq_kGv458J7gMBwXu70?usp=sharing
