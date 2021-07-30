@@ -7,20 +7,22 @@ Two approaches are plausible for the given scenario. The model can be developed 
 
 Another approach involves the use of IBM Watson studio to train the model, which can be downloaded using model id credentials and used. It can be found in the 'IBM Watson + Jupyter files' section. 
 
+#Alternative repository:
+https://github.com/Anahitaa-Radhakrishnan/AI-based-Brain-Tumor-Detection 
 
-Link for MRI_Tumor.h5 and my_model.tar.gz:
+#Link for MRI_Tumor.h5 and my_model.tar.gz:
 
 https://drive.google.com/drive/folders/14AY7nAYVAKReHZoNJyIXEj5ldWx0OG7t?usp=sharing
 
 
-IBM access token credentials:
+#IBM access token credentials:
 
 SmartBridge_IBM_Reference   token: p-9ae415374995c7307c0896f71144fc3bec548700
 
 
-Dataset obtained from: 
+#Dataset obtained from: 
 
-https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+archive(4).zip ; to be unzipped before use
 
 
-NOTE: Location for IBM Watson and the ML services is set to Dallas. The compressed version of the dataset is also provided here (archive(4).zip).
+NOTE: Location for IBM Watson and the ML services is set to Dallas. While uploading datasets to IBM Watson Studio, ensure that the files are zipped.
