@@ -17,7 +17,10 @@ Another approach involves the use of IBM Watson studio to train the model, which
 # Alternative repositories:
 
 https://github.com/smartinternz02/SI-GuidedProject-4595-1626951143
+
+
 https://github.com/Anahitaa-Radhakrishnan/AI-based-Brain-Tumor-Detection 
+
 
 # Link for MRI_Tumor.h5 and my_model.tar.gz:
 
