@@ -14,10 +14,7 @@ Another approach involves the use of IBM Watson studio to train the model, which
 18BCE1325 Anahitaa R
 18BLC1055 Anish Subramanian
 
-# Alternative repositories:
-
-https://github.com/smartinternz02/SI-GuidedProject-4595-1626951143
-
+# Alternative repository:
 
 https://github.com/Anahitaa-Radhakrishnan/AI-based-Brain-Tumor-Detection 
 
