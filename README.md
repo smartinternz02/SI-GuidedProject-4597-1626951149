@@ -27,3 +27,4 @@ archive(4).zip ; to be unzipped before use
 
 # NOTE: 
 Location for IBM Watson and the ML services is set to Dallas. While uploading datasets to IBM Watson Studio, ensure that the files are zipped.
+When working with the flask-based application, ensure that a folder (initially empty) named 'uploads' exists. 
