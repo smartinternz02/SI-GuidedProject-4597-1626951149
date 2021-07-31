@@ -8,13 +8,14 @@ Two approaches are plausible for the given scenario. The model can be developed 
 Another approach involves the use of IBM Watson studio to train the model, which can be downloaded using model id credentials and used. It can be found in the 'IBM Watson + Jupyter files' section. 
 
 # Teammates:
+18BCE1325 Anahitaa R
+
 18BCE1190 Aravind G
 
 18BCE1055 Surya Srinivasan
 
 18BCE1208 R A Keerthan
 
-18BCE1325 Anahitaa R
 
 18BLC1055 Anish Subramanian
 
