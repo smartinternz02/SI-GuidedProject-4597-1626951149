@@ -9,14 +9,16 @@ Another approach involves the use of IBM Watson studio to train the model, which
 
 # Teammates:
 18BCE1190 Aravind G
+
 18BCE1055 Surya Srinivasan
+
 18BCE1208 R A Keerthan
+
 18BCE1325 Anahitaa R
+
 18BLC1055 Anish Subramanian
 
-# Alternative repository:
 
-https://github.com/Anahitaa-Radhakrishnan/AI-based-Brain-Tumor-Detection 
 
 
 # Link for MRI_Tumor.h5 and my_model.tar.gz:
